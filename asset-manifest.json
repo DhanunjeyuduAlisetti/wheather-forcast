@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/wheather-forcast/static/css/main.7d4c7cc2.css",
+    "main.js": "/wheather-forcast/static/js/main.84a5f7c4.js",
+    "static/media/sunrise.jpg": "/wheather-forcast/static/media/sunrise.91db1957508d9a9e8240.jpg",
+    "index.html": "/wheather-forcast/index.html",
+    "main.7d4c7cc2.css.map": "/wheather-forcast/static/css/main.7d4c7cc2.css.map",
+    "main.84a5f7c4.js.map": "/wheather-forcast/static/js/main.84a5f7c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d4c7cc2.css",
+    "static/js/main.84a5f7c4.js"
+  ]
+}
